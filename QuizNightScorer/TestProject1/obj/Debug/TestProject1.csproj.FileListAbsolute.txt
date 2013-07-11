@@ -1,0 +1,7 @@
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\TestProject1\bin\Debug\TestProject1.dll
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\TestProject1\bin\Debug\TestProject1.pdb
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\TestProject1\bin\Debug\QuizNightScorer.exe
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\TestProject1\bin\Debug\QuizNightScorer.pdb
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\TestProject1\obj\Debug\TestProject1.dll
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\TestProject1\obj\Debug\TestProject1.pdb

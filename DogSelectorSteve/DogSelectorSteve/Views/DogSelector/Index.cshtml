@@ -1,0 +1,120 @@
+﻿@model DogSelectorSteve.Models.Dog
+
+@{
+    ViewBag.Title = "Index";
+}
+
+ 
+@using (Html.BeginForm("DogSelector"))
+{
+    
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.css" />
+	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
+    
+   <div id = "wrapper" >
+
+<fieldset>
+
+
+<div data-role = "header">
+
+<h3>BIT Dog Selector</h3>
+
+</div>
+            <div data-role="fieldcontain">
+            <fieldset data-role="controlgroup" data-type="horizontal">
+            <legend>Good with children:</legend>
+                    <input type="radio" name="GoodWithChildren" id="GoodWithChildren" value="true" checked="checked" data-theme="a" />
+                    <label for="GoodWithChildren">Yes</label>
+                    <input type="radio" name="GoodWithChildren" id="GoodWithChildren2" value="false" checked="checked" data-theme="a" />
+                    <label for="GoodWithChildren2">No</label>
+            </fieldset>
+        </div>
+
+         <div data-role="fieldcontain">
+            <fieldset data-role="controlgroup" data-type="horizontal">
+            <legend>Drooling:</legend>
+                    <input type="radio" name="Drools" id="Drools" value="true" checked="checked" data-theme="a" />
+                    <label for="Drools">Yes</label>
+                    <input type="radio" name="Drools" id="Droolsfalse" value="false" checked="checked" data-theme="a" />
+                    <label for="Droolsfalse">No</label>
+            </fieldset>
+        </div>
+
+
+         <div data-role="fieldcontain">
+            <fieldset data-role="controlgroup" data-type="horizontal">
+            <legend>Coat Length:</legend>
+                    <input type="radio" name="CoatLength" id="CoatLengths" value="Short" checked="checked" data-theme="a" />
+                    <label for="CoatLengths">Short</label>
+                    <input type="radio" name="CoatLength" id="CoatLengthm" value="Medium" checked="checked" data-theme="a" />
+                    <label for="CoatLengthm">Medium</label>
+                    <input type="radio" name="CoatLength" id="CoatLengthl" value="Long" checked="checked" data-theme="a" />
+                    <label for="CoatLengthl">Long</label>
+            </fieldset>
+        </div>
+
+
+        <fieldset data-role="fieldcontain">
+                <label for="ActivityLevel">
+                    Activity Level:</label>
+                <select name="ActivityLevel" id="ActivityLevel" data-theme="a">
+                  <option value="noPref">No Preference</option>
+                    <option value="Low">Low</option>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select>
+            </fieldset>
+             <fieldset data-role="fieldcontain">
+                <label for="SheddingLevel">
+                    Shedding Level:</label>
+                <select name="SheddingLevel" id="SheddingLevel" data-theme="a">
+                   <option value="noPref">No Preference</option>
+                    <option value="Low">Low</option>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select>
+            </fieldset>
+            <fieldset data-role="fieldcontain">
+                <label for="GroomingLevel">
+                    Grooming Level:</label>
+                <select name="GroomingLevel" id="GroomingLevel" data-theme="a">
+                    <option value="noPref">No Preference</option>
+                    <option value="Low">Low</option>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select>
+            </fieldset>
+            <fieldset data-role="fieldcontain">
+                <label for="IntelligenceLevel">
+                    Intelligence Level:</label>
+                <select name="IntelligenceLevel" id="IntelligenceLevel" data-theme="a">
+                    <option value="noPref">No Preference</option>
+                    <option value="Low">Low</option>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select>
+            </fieldset>
+            <fieldset data-role="fieldcontain">
+                <label for="DogSize">
+                    Preferred Size:</label>
+                <select name="DogSize" id="DogSize" data-theme="a">
+                    <option value="Miniature">Miniature</option>
+                    <option value="Small">Small</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Large">Large</option>
+                    <option value="Giant">Giant</option>
+                </select>
+            </fieldset>
+                <input type="submit" value="Search for a Dog" />
+
+
+                <div data-role="footer" data-postion="fixed">
+                <h3>Stephen Sugrue June 2013</h3>
+                </div>
+
+</fieldset>
+</div>
+}
+

@@ -1,0 +1,16 @@
+C:\Users\Steve\Documents\BIT\BIT Year 3\Semester 1\OO\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GardenReporter_Steve.Form1.resources
+C:\Users\Steve\Documents\BIT\BIT Year 3\Semester 1\OO\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GardenReporter_Steve.Properties.Resources.resources
+C:\Users\Steve\Documents\BIT\BIT Year 3\Semester 1\OO\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GardenReporter_Steve.csproj.GenerateResource.Cache
+C:\Users\Steve\Documents\BIT\BIT Year 3\Semester 1\OO\Week 7\GardenReporter_Steve\GardenReporter_Steve\bin\Debug\GardenReporter_Steve.exe
+C:\Users\Steve\Documents\BIT\BIT Year 3\Semester 1\OO\Week 7\GardenReporter_Steve\GardenReporter_Steve\bin\Debug\GardenReporter_Steve.pdb
+C:\Users\Steve\Documents\BIT\BIT Year 3\Semester 1\OO\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GardenReporter_Steve.exe
+C:\Users\Steve\Documents\BIT\BIT Year 3\Semester 1\OO\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GardenReporter_Steve.pdb
+H:\My Documents\BIT Year 3\OOSD\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GardenReporter_Steve.exe
+H:\My Documents\BIT Year 3\OOSD\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GardenReporter_Steve.pdb
+H:\My Documents\BIT Year 3\OOSD\Week 7\GardenReporter_Steve\GardenReporter_Steve\bin\Debug\GardenReporter_Steve.exe
+H:\My Documents\BIT Year 3\OOSD\Week 7\GardenReporter_Steve\GardenReporter_Steve\bin\Debug\GardenReporter_Steve.pdb
+H:\My Documents\BIT Year 3\OOSD\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Documents\BIT Year 3\OOSD\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GardenReporter_Steve.Form1.resources
+H:\My Documents\BIT Year 3\OOSD\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GardenReporter_Steve.Properties.Resources.resources
+H:\My Documents\BIT Year 3\OOSD\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\My Documents\BIT Year 3\OOSD\Week 7\GardenReporter_Steve\GardenReporter_Steve\obj\x86\Debug\GenerateResource.write.1.tlog

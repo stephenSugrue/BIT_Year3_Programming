@@ -1,0 +1,7 @@
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\bin\Debug\Steve_Predicate.exe
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\bin\Debug\Steve_Predicate.pdb
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\Steve_Predicate.Form1.resources
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\Steve_Predicate.Properties.Resources.resources
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\Steve_Predicate.csproj.GenerateResource.Cache
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\Steve_Predicate.exe
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\Steve_Predicate.pdb

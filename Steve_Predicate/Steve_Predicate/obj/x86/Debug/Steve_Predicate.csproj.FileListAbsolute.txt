@@ -1,0 +1,9 @@
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\bin\Debug\Steve_Predicate.exe
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\bin\Debug\Steve_Predicate.pdb
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\Steve_Predicate.Form1.resources
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\Steve_Predicate.Properties.Resources.resources
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\Steve_Predicate.exe
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\Steve_Predicate.pdb
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\My Documents\BIT Year 3\OOSD\Week 7\Steve_Predicate\Steve_Predicate\obj\x86\Debug\GenerateResource.write.1.tlog

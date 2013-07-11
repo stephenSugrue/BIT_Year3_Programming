@@ -1,0 +1,7 @@
+C:\Users\sugrusl1\Desktop\DogSelectorSteve\DogSelectorSteve\bin\DogSelectorSteve.dll
+C:\Users\sugrusl1\Desktop\DogSelectorSteve\DogSelectorSteve\bin\DogSelectorSteve.pdb
+C:\Users\sugrusl1\Desktop\DogSelectorSteve\DogSelectorSteve\bin\EntityFramework.dll
+C:\Users\sugrusl1\Desktop\DogSelectorSteve\DogSelectorSteve\bin\EntityFramework.xml
+C:\Users\sugrusl1\Desktop\DogSelectorSteve\DogSelectorSteve\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sugrusl1\Desktop\DogSelectorSteve\DogSelectorSteve\obj\Debug\DogSelectorSteve.dll
+C:\Users\sugrusl1\Desktop\DogSelectorSteve\DogSelectorSteve\obj\Debug\DogSelectorSteve.pdb

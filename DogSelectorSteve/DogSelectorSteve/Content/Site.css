@@ -1,0 +1,110 @@
+#wrapper
+{
+    background-color:Silver;
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+    background-image:url(../content/DogImages/dogbackground.jpg);
+}
+
+#resultTable
+{
+   border: 1px solid black;
+   background-color:inherit;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width:65%;
+    
+    
+}
+
+ img 
+    {
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:65%;
+       
+    }
+
+table
+{
+    background-color:Blue;
+}
+/*Media change stuff*/ 
+
+/* Anything less than 320px  */
+
+@media screen and (min-width: 0px)and (max-width: 319)
+{
+    #wrapper
+    {
+        background-image:url(../content/DogImages/dogbackground.jpg);
+        margin-left:auto;
+        margin-right:auto;
+        width:70%;
+    }
+    
+}
+
+/*iPhone */
+@media screen and (min-width: 320px) and (max-width: 480px)
+{
+    #wrapper
+    {
+     
+        margin-left:auto;
+        margin-right:auto;
+        width:100%;
+        
+      
+    }
+   
+}
+
+
+
+/*for that inbetween size to give a nice transistion */
+@media screen and (min-width: 481px) and (max-width: 767px)
+{
+    #wrapper
+    {
+    
+        margin-left:auto;
+        margin-right:auto;
+        width:90%;
+    }
+   
+}
+
+
+
+
+/* ipad*/
+@media screen and (min-width: 768px) and (max-width: 1024px)
+{
+    #wrapper
+    {
+       
+        margin-left:auto;
+        margin-right:auto;
+        width:80%;
+    }
+    
+   
+}
+
+/* Large screen   */
+@media screen and (min-width: 1025px)
+{
+    #wrapper
+    {
+        background-image:url(../content/DogImages/dogbackground.jpg);
+        margin-left:auto;
+        margin-right:auto;
+        width:90%;
+    }
+    
+}

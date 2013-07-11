@@ -1,0 +1,9 @@
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\QuizNightScorer\bin\Debug\QuizNightScorer.exe
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\QuizNightScorer\bin\Debug\QuizNightScorer.pdb
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\QuizNightScorer\obj\x86\Debug\QuizNightScorer.Form1.resources
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\QuizNightScorer\obj\x86\Debug\QuizNightScorer.Properties.Resources.resources
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\QuizNightScorer\obj\x86\Debug\QuizNightScorer.exe
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\QuizNightScorer\obj\x86\Debug\QuizNightScorer.pdb
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\QuizNightScorer\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\QuizNightScorer\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\My Documents\BIT Year 3\OOSD\Week 7\QuizNightScorer\QuizNightScorer\obj\x86\Debug\GenerateResource.write.1.tlog
